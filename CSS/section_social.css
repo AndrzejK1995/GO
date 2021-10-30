@@ -1,0 +1,75 @@
+.footer {
+    margin: auto;
+    background: url(../pictures/theme_contacts.png);
+ height: 629px;
+}
+.header-2 {
+    margin-left: auto;
+    padding-bottom: 74px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.wraper {
+    list-style-type: none;
+    display: inline;
+}
+.wraper__icon1 {
+    background-image: url(../pictures/location.png);
+    width: 32px;
+    height: 32px;
+    margin-bottom: 72px; 
+}
+.wraper__icon2 {
+    background-image: url(../pictures/phone.png);
+    width: 32px;
+    height: 32px;
+    margin-bottom: 16px;
+}
+.wraper__icon3 {
+    background-image: url(../pictures/envelope.png);
+    width: 32px;
+    height: 32px;
+    margin-bottom: 39px;
+}
+.wraper__details{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-left: 58px;
+    padding-bottom: 0px;
+}
+.social {
+    margin-left: -28px;
+    display: flex;
+    list-style: none;
+}
+.social__instagram {
+    background-image: url(../pictures/instagram_logo.png);
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+}
+.social__vk {
+    background-image: url(../pictures/VK_logo.png);
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+}
+.social__facebook {
+    background-image: url(../pictures/facebook_logo.png);
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+}
+.social__telegram {
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+    background-image: url(../pictures/telegram_logo.png);
+}

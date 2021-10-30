@@ -1,0 +1,113 @@
+.about-section {
+    margin: auto;
+    padding-bottom: 95px; max-width:1180px;
+}
+.container-right {
+    float: right;
+ 
+}
+.header {
+    padding-bottom: 74px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.container-right__description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;    
+    color: #FFFFFF;
+}
+.owner {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.owner__quote::after {
+    content: "''";
+    font-family: Arial Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #6C0287;
+}
+.owner__quote::before {
+    content:"''";
+    font-family: Arial Black;
+    font-style: normal;
+    margin-left: -35px;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #6C0287;
+}
+.wrap {
+    margin-left: 105px;
+}
+.wrap__founder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    color: #FFFFFF;
+}
+.wrap__avatar{
+    margin-left: 23px;
+}
+.wrap__description {
+    margin-left: 29px;
+}
+.collage {
+    list-style-type: none;
+    display: flex;
+    align-content: flex-start;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+.collage__1 {
+    background-image: url(../pictures/collage_1.png);
+    width: 300px;
+    height: 206px;
+}
+.collage__2 {
+    background-image: url(../pictures/collfge_2.png);
+    width: 300px;
+    height: 206px;
+}
+.collage__3 {
+    background-image: url(../pictures/collage_3.png);
+    width: 164px;
+    height: 224px;
+}
+.collage__4 {
+    background-image: url(../pictures/collage_4.png);
+    width: 180px;
+    height: 224px;
+}
+.collage__5 {
+    background-image: url(../pictures/collage_5.png);
+    width: 256px;
+    height: 224px;
+}
+.collage__6 {
+    background-image: url(../pictures/collage_6.png);
+    width: 380px;
+    height: 166px;
+}
+.collage__7 {
+    background-image: url(../pictures/collage_7.png);
+    width: 220px;
+    height: 166px;
+}
+

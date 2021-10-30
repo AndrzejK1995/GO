@@ -1,0 +1,24 @@
+@import url(section_hero.css);
+@import url(section_halls.css);
+@import url(section_about.css);
+@import url(section_social.css);
+@import url(globalstyles.css);
+@import url(question-section.css);
+@import url(feedback-section.css);
+body {
+    background-color: #1B1A1B;
+    font-family: Arial;
+}
+.section {
+    padding-top: 189px;
+    padding-bottom: 60px;
+    margin: auto;
+}
+.hall-section {
+    margin: auto;
+    padding-bottom: 105px;
+}
+.container {
+    max-width: 1180px;
+    margin: auto;
+}

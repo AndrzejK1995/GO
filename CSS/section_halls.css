@@ -1,0 +1,41 @@
+
+.header-halls {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 73px;
+}
+.container__list {
+    list-style-type: none;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container__vibehall {
+    background: url(../pictures/vibes.jpg);
+}
+.container__swhall {
+    background: url(../pictures/sw.jpg);
+}
+.container__wwhall {
+    background: url(../pictures/ww.jpg);
+}
+.container__neonhall {
+    background: url(../pictures/neon.jpg);
+}
+.modeficator {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 89px 168px;
+    color: #FFFFFF;
+    width: 551px;
+    height: 349px;
+    margin-bottom: 23px;
+}

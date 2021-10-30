@@ -1,0 +1,48 @@
+.feedback-section {
+    padding-bottom: 111px;
+}
+.feedback-container {
+    max-width: 1180px;
+    margin: auto;
+}
+.feedback-header {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 57px;
+}
+.list {
+    list-style-type: none;
+}
+.list__client {
+    display: flex;
+}
+.list__client-avatar {
+    margin-bottom: 11px;
+}
+.list__client-figcaption {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 55px;
+}
+.feedback__rewiev {
+    max-width: 680px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding: 42px 7px;
+}
+

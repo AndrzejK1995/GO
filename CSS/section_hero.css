@@ -1,0 +1,33 @@
+.container__title {
+    font-family: Arial Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 200px;
+    line-height: 100%;
+    letter-spacing: -0.1em;
+    bottom: 0px;
+    color: #FFFFFF;
+}
+.container__cite::after {
+    content:"";
+    display: block;
+    width: 675px;
+    height: 762px;
+    background: url(../pictures/main_title.png);
+    position: absolute; 
+    top: -101px;
+    left: 505px;
+    right: 0px;
+}
+.container__cite {
+    display: block;
+    font-size: 28px;
+    line-height: 50px;
+    padding-left: 211px;
+    padding-bottom: 615px;
+    background: url(../pictures/GAME\ OVER\ \(Stroke\).svg);
+    background-repeat: repeat-y;
+    position: relative;
+    color: #FFFFFF;
+    margin-left: 5px;
+}
